@@ -1,5 +1,6 @@
 # FlyNett
 
-# FANET air traffic transmitter for SoftRF
+FANET air traffic transmitter for SoftRF
 
-Only for testing github
+see the fantastic project https://github.com/lyusupov/SoftRF
+
